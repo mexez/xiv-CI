@@ -1,4 +1,4 @@
-# project-14
+# xiv
 Dependences to be installed
 * General
 - yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
